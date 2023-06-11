@@ -1,0 +1,63 @@
+[
+    {
+        "id":1,
+        "image":"https://image.tmdb.org/t/p/original/eh1XUcOUyva5ikomqKtftIKBcMt.jpg",
+        "title":"Lucifer",
+        "Description":"Baron,konseyin kurucusu ve başı."
+    },
+    {
+        "id":2,
+        "image":"https://resizing.flixster.com/6EeYrywKueOFue9uRSQqLxfGKI0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA0NzZhZTk0LTI3NjctNGZiNi04Yjg4LWRiN2RkNTJiYWZlNy5qcGc=",
+        "title":"Nope",
+        "Description":"Karahanlı'nın sağ kolu, konseyin güvenliğinden sorumlu isim."
+    },
+    {
+        "id":3,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWxuRjP2ETods3z3mU0M5emCKqDGmoS_7aew&usqp=CAU",
+        "title":"Plane",
+        "Description":"Uyuşturucu işinden sorumlu."
+    },
+    {
+        "id":4,
+        "image":"https://resizing.flixster.com/kOwYrirvInrJ65k3d1J6GymwacE=/300x300/v2/https://resizing.flixster.com/LumPRA7tw5a4VtKzSnGnTWpW2Q8=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvNTlmOGIyM2ItMzRhMy00MjdkLThkNDYtZWJkZDI1ODMzNmI3LmpwZw==",
+        "title":"Wensday",
+        "Description":"Silah kaçakcılığından sorumlu."
+    },
+    {
+        "id":5,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQfKO-L-VyB7cbrRBIfkjFBxM_aGiyHb9Xnw&usqp=CAU",
+        "title":"Puss in boots",
+        "Description":"Kumarhanelerden sorumlu."
+    },
+    {
+        "id":6,
+        "image":"https://lumiere-a.akamaihd.net/v1/images/p_aladdin2019_17638_d53b09e6.jpeg",
+        "title":"Aladdin",
+        "Description":"Borsa manipülasyonu ve dış ilişkilerden sorumlu."
+    },
+    {
+        "id":7,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScRXt_4uSzE3J144Q_Rg3Xko_Jp4Mp8svizA&usqp=CAU",
+        "title":"Batman",
+        "Description":"Avukat, konseyin hukuk işlerinden sorumlu."
+    },
+    {
+        "id":8,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFnhKD8jTkrASWIFhPT6lx2ubNzm9MTCDa2dQmXRQWZKzSLcHEQRJWRcaLjwVtLKlaA4k&usqp=CAU",
+        "title":"Bloodshot",
+        "Description":"Konseyin silahlı gücü, ekibiyle beraber infazlardan sorumlu."
+    },
+    {
+        "id":9,
+        "image":"https://image-engine.com/wp-content/uploads/Willow-Lucasfilm-Disney-poster.jpg",
+        "title":"Willow",
+        "Description":"Eski bürokrat, gümrük ve sınır kapılarını kontrol eden isim."
+    },
+    {
+        "id":10,
+        "image":"https://i.ytimg.com/vi/oXydjJL463w/movieposter_en.jpg",
+        "title":"Prey for the devil",
+        "Description":"Tefeci, konseyin kasası, konseyin parasını kontrol eden kişi."
+    }
+
+]
